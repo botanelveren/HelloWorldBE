@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\HelloWorldBE\obj\Debug\net8.0\HelloWorldBE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\HelloWorldBE\obj\Debug\net8.0\HelloWorldBE.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\HelloWorldBE\obj\Debug\net8.0\HelloWorldBE.AssemblyInfo.cs
+C:\Users\User\source\repos\HelloWorldBE\obj\Debug\net8.0\HelloWorldBE.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\HelloWorldBE\bin\Debug\net8.0\HelloWorldBE.exe
+C:\Users\User\source\repos\HelloWorldBE\bin\Debug\net8.0\HelloWorldBE.deps.json
+C:\Users\User\source\repos\HelloWorldBE\bin\Debug\net8.0\HelloWorldBE.runtimeconfig.json
+C:\Users\User\source\repos\HelloWorldBE\bin\Debug\net8.0\HelloWorldBE.dll
+C:\Users\User\source\repos\HelloWorldBE\bin\Debug\net8.0\HelloWorldBE.pdb
+C:\Users\User\source\repos\HelloWorldBE\obj\Debug\net8.0\HelloWorldBE.dll
+C:\Users\User\source\repos\HelloWorldBE\obj\Debug\net8.0\refint\HelloWorldBE.dll
+C:\Users\User\source\repos\HelloWorldBE\obj\Debug\net8.0\HelloWorldBE.pdb
+C:\Users\User\source\repos\HelloWorldBE\obj\Debug\net8.0\HelloWorldBE.genruntimeconfig.cache
+C:\Users\User\source\repos\HelloWorldBE\obj\Debug\net8.0\ref\HelloWorldBE.dll
